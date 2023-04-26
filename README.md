@@ -12,13 +12,13 @@
 
 <table style= "border:none">
 <tr>
-    <td>
+    <td style= "border:none">
 <div align="left"> <a href="https://twitter.com/isac660" target="blank"><img src="https://img.shields.io/twitter/follow/isac660?logo=twitter&style=for-the-badge" alt="isac660" /></a> 
     </td>
-    <td>
+    <td style= "border:none">
 <div align="center"> <a href="https://www.youtube.com/channel/UCWKD-J60Pf78ZUa0qBkbppg" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCWKD-J60Pf78ZUa0qBkbppg?logo=youtube&style=for-the-badge" alt="isac660" /></a> </div>
     </td>
-    <td>
+    <td style= "border:none">
 <div align="center"> <a href="https://www.youtube.com/channel/UCWKD-J60Pf78ZUa0qBkbppg" target="blank"><img src="https://img.shields.io/discord/1016132327765717012?color=%23003366&logo=discord&logoColor=white%20&style=for-the-badge" alt="isac660" /></a> </div>
     </td>
 </tr>
