@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isacdav66&theme=radical" alt="isacdav66" /></a> </p>
 
-<table style= "border:none;">
+<table align="center" style= "border:none;">
 <tr>
     <td style= "border:none">
 <div align="left"> <a href="https://twitter.com/isac660" target="blank"><img src="https://img.shields.io/twitter/follow/isac660?logo=twitter&style=for-the-badge" alt="isac660" /></a> 
