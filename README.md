@@ -8,17 +8,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isacdav66&label=Profile%20views&color=0e75b6&style=flat&" alt="isacdav66" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isacdav66&theme=radical" alt="isacdav66" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isacdav66&theme=radical" alt="isacdav66" /></a> </p>
 
-<table align="center" style= "border:none;">
+<table align="center">
 <tr>
-    <td style= "border:none">
+    <td >
 <div align="left"> <a href="https://twitter.com/isac660" target="blank"><img src="https://img.shields.io/twitter/follow/isac660?logo=twitter&style=for-the-badge" alt="isac660" /></a> 
     </td>
-    <td style= "border:none">
+    <td >
 <div align="center"> <a href="https://www.youtube.com/channel/UCWKD-J60Pf78ZUa0qBkbppg" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCWKD-J60Pf78ZUa0qBkbppg?logo=youtube&style=for-the-badge" alt="isac660" /></a> </div>
     </td>
-    <td style= "border:none">
+    <td >
 <div align="center"> <a href="https://www.youtube.com/channel/UCWKD-J60Pf78ZUa0qBkbppg" target="blank"><img src="https://img.shields.io/discord/1016132327765717012?color=%23003366&logo=discord&logoColor=white%20&style=for-the-badge" alt="isac660" /></a> </div>
     </td>
 </tr>
