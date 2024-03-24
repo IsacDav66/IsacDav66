@@ -30,17 +30,17 @@
 
 - 👯 I’m looking to collaborate on [BROM (unnamed)](https://github.com/IsacDav66/BROMS.git)
 
-- 📱 Social Networks [Linkfly](https://linkfly.to/isacdav66)
+- 📱 Social Networks [Linkfly]()
 
 - 👨‍💻 All of my projects are available at [https://crakkfeil.itch.io/](https://crakkfeil.itch.io/)
 
-- 📝 I regularly write articles on [https://isacdav.blogspot.com/](https://isacdav.blogspot.com/)
+- 📝 I regularly write articles on [https://isacdav.blogspot.com/]()
 
 - 💬 Ask me about **How would you describe your artistic style in creating video games?**
 
-- 📫 How to reach me **isadavid.caccha@gmail.com**
+- 📫 How to reach me **gmail.com**
 
-- 📄 Know about my experiences [https://isaccacchacv.blogspot.com/2022/06/blog-post.html#more](https://isaccacchacv.blogspot.com/2022/06/blog-post.html#more)
+- 📄 Know about my experience()
 
 - ⚡ Fun fact **Darkness was inspired by Superfigthers Deluxe**
 
