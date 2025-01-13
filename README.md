@@ -1,48 +1,73 @@
 
 <img align="center" src="https://th.bing.com/th/id/R.1bd1cc866ba3c9b6c36983b1e4e4229b?rik=9gRRESDs0%2fVpzA&pid=ImgRaw&r=0">
 <br>
-<br>
-<br>
-<h1 align="center">Hi 👋, I'm IsacDav</h1>
-<h3 align="center">A 18-year-old Peruvian artist who creates independent video games.-https://linkfly.to/isacdav66</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=isacdav66&label=Profile%20views&color=0e75b6&style=flat&" alt="isacdav66" /> </p>
+# Hola! 👋 Soy Isac
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isacdav66&theme=radical" alt="isacdav66" /></a> </p>
+Desarrollador de software apasionado por videojuegos y aplicaciones web.
 
-<table align="center">
-<tr>
-    <td >
-<div align="left"> <a href="https://twitter.com/isac660" target="blank"><img src="https://img.shields.io/twitter/follow/isac660?logo=twitter&style=for-the-badge" alt="isac660" /></a> 
-    </td>
-    <td >
-<div align="center"> <a href="https://www.youtube.com/channel/UCWKD-J60Pf78ZUa0qBkbppg" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCWKD-J60Pf78ZUa0qBkbppg?logo=youtube&style=for-the-badge" alt="isac660" /></a> </div>
-    </td>
-    <td >
-<div align="center"> <a href="https://www.youtube.com/channel/UCWKD-J60Pf78ZUa0qBkbppg" target="blank"><img src="https://img.shields.io/discord/1016132327765717012?color=%23003366&logo=discord&logoColor=white%20&style=for-the-badge" alt="isac660" /></a> </div>
-    </td>
-</tr>
-</table>
+## Habilidades Clave
 
-- 🔭 I’m currently working on [Darkness](https://crakkfeil.itch.io/darkness)
+### Videojuegos
 
-- 🌱 I’m currently learning **Software Design and Development**
+*   **Motores:** Unity, Godot
+*   **Programación:** Plataformas, interacción, personajes, enemigos, animaciones.
+*   **Visual:** Pixel art, diseño de niveles, iluminación.
+*   **Sonido:** Efectos y música.
 
-- 👯 I’m looking to collaborate on [BROM (unnamed)](https://github.com/IsacDav66/BROMS.git)
+### Desarrollo Web (Frontend)
 
-- 📱 Social Networks
+*   **HTML:** Estructura semántica.
+*   **CSS:** Diseño responsivo, temas (claro/oscuro).
+*   **JavaScript:** Interacción, librerías (jQuery, highlight.js).
 
-- 👨‍💻 All of my projects are available at [https://crakkfeil.itch.io/](https://crakkfeil.itch.io/)
+### Desarrollo Web (Backend y APIs)
 
-- 📝 I regularly write articles on 
+*   **APIs REST:** Flask.
+*   **Bases de Datos:** PostgreSQL.
+*   **Web Scraping:** Extracción de datos (AnimeFLV).
+*   **Procesamiento:** JSON, transformación, información.
+*   **Autenticación:** Login, roles.
+*   **Manejo:** Hilos, archivos.
+*   **Video:** OpenCV, FFmpeg, Pillow, NumPy.
 
-- 💬 Ask me about **How would you describe your artistic style in creating video games?**
+### Otras
 
-- 📫 How to reach me **gmail.com**
+*   **Versatilidad:** Adaptación rápida.
+*   **Resolución de Problemas:** Soluciones efectivas.
+*   **Autodidacta:** Aprendizaje constante.
+*   **Despliegue:** Puesta en producción.
 
-- 📄 Know about my experience()
+## Proyectos Destacados
 
-- ⚡ Fun fact **Darkness was inspired by Superfigthers Deluxe**
+### Videojuegos
+
+*   **Darkness (Unity):** Plataformas 2.5D, pixel art.
+*   **Super Mario Bros. (Godot):** Plataformas 2D retro.
+*   **Echoes of Oblivion (Godot):** Plataformas 2D pixel-art (suspendido).
+
+### Web (Frontend)
+
+*   **Lenguajes de Programación:** Introducción a lenguajes, ejemplos.
+*   **Pollo Dorado:** Restaurante ficticio, funcionalidades, responsive.
+*  **Pastelería Online:** UI de compra, carrito.
+
+### Web (Backend y APIs)
+
+*   **Calculadora (C#):** Consola, operaciones básicas.
+*   **Buscador de Anime:** Flask, API externa.
+*   **API AnimeFLV:** REST, web scraping.
+*   **Pastelería Online (Backend):** Gestión de usuarios, productos, pagos.
+*   **Video a ASCII:** Conversión de video a texto.
+*  **Autismo +:** Plataforma educativa, gestión de usuarios.
+*  **Explorador de Mangas:** API MangaDex, lectura.
+
+## Contacto
+
+*   **Email:** [Tu Correo Electrónico]
+*   **LinkedIn:** [Tu Perfil de LinkedIn (opcional)]
+
+¡Gracias! 😊
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
