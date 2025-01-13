@@ -64,8 +64,8 @@ Desarrollador de software apasionado por videojuegos y aplicaciones web.
 
 ## Contacto
 
-*   **Email:** [Tu Correo Electrónico]
-*   **LinkedIn:** [Tu Perfil de LinkedIn (opcional)]
+*   **Email:** isadavid.caccha@gmail.com
+*   **LinkedIn:** https://www.linkedin.com/in/isac-dav/
 
 ¡Gracias! 😊
 
