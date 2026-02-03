@@ -5,6 +5,12 @@
 # Hola! 👋 Soy Isac
 
 Desarrollador de software apasionado por videojuegos y aplicaciones web.
+## Proyectos Destacados (Mobile/Web)
+
+### Red Social Multiplataforma:
+
+*   **Tecnologías**: Desarrollo Web (Frontend/Backend) + Capacitor para despliegue en Android (APK).
+*   **Funcionalidades**: Gestión de usuarios, publicaciones en tiempo real y persistencia de datos.
 
 ## Habilidades Clave
 
