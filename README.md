@@ -7,7 +7,7 @@
 Desarrollador de software apasionado por videojuegos y aplicaciones web.
 ## Proyectos Destacados (Mobile/Web)
 
-### Red Social Multiplataforma:
+### <a href="https://github.com/IsacDav66/App-Capacitor" target="_blank" rel="noreferrer"> Red Social Multiplataforma </a>:
 
 *   **Tecnologías**: Desarrollo Web (Frontend/Backend) + Capacitor para despliegue en Android (APK).
 *   **Funcionalidades**: Gestión de usuarios, publicaciones en tiempo real y persistencia de datos.
